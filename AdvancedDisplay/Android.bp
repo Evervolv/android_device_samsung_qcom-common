@@ -13,7 +13,7 @@ android_app {
     platform_apis: true,
 
     static_libs: [
-        "org.lineageos.platform.internal",
+        "com.evervolv.platform.internal",
         "org.lineageos.settings.resources",
     ],
 
